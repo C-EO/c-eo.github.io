@@ -112,7 +112,7 @@ post_search: true
 edit_page_button: false
 
 # Removes beautifuljekyll.com ads
-site.remove-ads: true
+remove-ads: true
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
