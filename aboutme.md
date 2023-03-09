@@ -8,7 +8,7 @@ My name is Dennis Sebalemba. I have the following qualities:
 
 - I rock a great mustache (ref: the image above 😅)
 - I'm extremely loyal to my family
-- I founded Nitehub Org. (🏢 => 💵)
+- I founded Nitehub Org. (🏢 → 💵)
 
 What else do you need? Tell me [here](mailto:dennis.sebalemba@gmail.com).
 
