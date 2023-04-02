@@ -9,7 +9,7 @@ My name is Dennis Sebalemba. I have the following qualities:
 - I rock a great mustache (ref: the image above 😅)
 - I'm extremely loyal to my family
 - I founded Nitehub Org. (🏢 → 💵)
-- My crush is...Meeeh! Too much info.
+- My crush is...Meeeh! Too much info—This is all you need to know.
 
 What else do you need? Tell me [here](mailto:dennis.sebalemba@gmail.com).
 
